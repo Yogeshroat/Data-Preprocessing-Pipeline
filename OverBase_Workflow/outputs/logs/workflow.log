@@ -1,0 +1,62 @@
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task3_validate_companies] Validated companies for 242 rows -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3_domains.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_validated.csv
+[task3b_verify_employment] Starting employment verification step
+[task3b_verify_employment] Wrote verification template to /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/manual/verification_template.csv
+[task3b_verify_employment] Saved step3b_verified.csv with 242 rows
+[task4_generate_emails] Generated emails for 242 rows
+[task5_quality_check] Final list generated with 50 rows
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task3_validate_companies] Validated companies for 242 rows -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3_domains.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_validated.csv
+[task3b_verify_employment] Starting employment verification step
+[task3b_verify_employment] Wrote verification template to /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/manual/verification_template.csv
+[task3b_verify_employment] Saved step3b_verified.csv with 242 rows
+[task3c_verify_employment_webscrape] Verified via website scraping: +18 rows; wrote /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3c_verified_web.csv
+[task4_generate_emails] Generated emails for 242 rows
+[task5_quality_check] Final list generated with 50 rows
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task3_validate_companies] Validated companies for 242 rows -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3_domains.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_validated.csv
+[task3b_verify_employment] Starting employment verification step
+[task3b_verify_employment] Wrote verification template to /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/manual/verification_template.csv
+[task3b_verify_employment] Saved step3b_verified.csv with 242 rows
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task3_validate_companies] Validated companies for 242 rows -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3_domains.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_validated.csv
+[task3b_verify_employment] Starting employment verification step
+[task3b_verify_employment] Wrote verification template to /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/manual/verification_template.csv
+[task3b_verify_employment] Saved step3b_verified.csv with 242 rows
+[task3c_verify_employment_webscrape] Verified via website scraping: +26 rows; wrote /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3c_verified_web.csv
+[task4_generate_emails] Generated emails for 242 rows
+[task5_quality_check] Final list generated with 50 rows
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task3_validate_companies] Validated companies for 242 rows -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3_domains.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_validated.csv
+[task3b_verify_employment] Starting employment verification step
+[task3b_verify_employment] Wrote verification template to /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/manual/verification_template.csv
+[task3b_verify_employment] Saved step3b_verified.csv with 242 rows
+[task1_filter_senior_execs] Filtered senior execs: 282 -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_only.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step1_senior.csv
+[task2_remove_duplicates] Starting dedup with 282 rows
+[task2_remove_duplicates] Removed 40 duplicates -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_no_duplicates.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step2_dedup.csv
+[task3_validate_companies] Validated companies for 242 rows -> saved /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3_domains.csv and /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/senior_execs_validated.csv
+[task3b_verify_employment] Starting employment verification step
+[task3b_verify_employment] Wrote verification template to /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/manual/verification_template.csv
+[task3b_verify_employment] Saved step3b_verified.csv with 242 rows
+[task3c_verify_employment_webscrape] Verified via website scraping: +37 rows; wrote /Users/yogeshroat/Documents/coding/OverBase_DataCleaning/OverBase_Workflow/outputs/step3c_verified_web.csv
+[task4_generate_emails] Generated emails for 242 rows
+[task5_quality_check] Final list generated with 50 rows

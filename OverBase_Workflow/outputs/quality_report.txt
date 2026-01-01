@@ -1,0 +1,14 @@
+QUALITY CHECK REPORT
+============================================================
+
+Final executives: 50 / 50
+
+Tier breakdown:
+  • strict: 24
+  • A: 26
+  • B: 0
+  • C: 0
+  • fallback: 0
+
+Issues:
+  • 11 potential domain mismatches
